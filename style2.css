@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    text-transform:capitalize ;
+}
+#outer{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+#two{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+
+
+}
+#three{
+    width: 100px;
+    height: 100px;
+    background-color:yellow;
+    border-radius: 50%;
+}
+#border{
+    height:350px;
+    width:200px;
+    background-color: pink;
+    padding-left: 40px;
+}

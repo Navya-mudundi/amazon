@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(127, 211, 183);
+
+}
+#container{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 450px;
+    height: 400px;
+    width: 400px;
+    background:linear-gradient(aquamarine,white);
+    padding: 20px;
+}
+button{
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 50px;   
+}
+#user,#pass{
+    margin-left: 70px;
+}
+.key{
+    font-size: small ;
+    color: red;
+    display: none;
+}

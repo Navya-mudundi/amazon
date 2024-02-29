@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: gainsboro;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 20px;
+  background-color:grey;
+  border-radius: 5px;
+}
+  h2 {
+    text-align: center;
+    color:white;
+  }
+
+  #name,#emailid,#password,#phone {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    box-sizing: border-box; 
+  }
+   
+  #submit {
+    width: 100%;
+    padding: 10px;
+    background-color:green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  #submit:hover {
+    background-color: #45a049;
+  }
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+ 

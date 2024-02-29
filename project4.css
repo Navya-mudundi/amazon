@@ -1,0 +1,14 @@
+.navbar{
+    background-color: palegreen;
+    display:flex;
+    justify-content:space-evenly;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+}
+li{
+    list-style-type: none;
+    display:inline
+}
